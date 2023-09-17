@@ -4,6 +4,10 @@ This project aims to classify breast cancer tumors as malignant or benign based 
 
 ## Dataset
 
+The below chart shows the distribution of dataset 
+
+<img src="https://github.com/Farah-DeebaJ/BreastCancerClassification/blob/main/Visualisation/Distribution.png">
+
 The dataset contains 569 instances of breast cancer tumors, each with 32 attributes. The attributes are:
 - ID number
 - Diagnosis (M = malignant, B = benign)
@@ -18,9 +22,6 @@ The dataset contains 569 instances of breast cancer tumors, each with 32 attribu
     - concave points (number of concave portions of the contour)
     - symmetry 
     - fractal dimension ("coastline approximation" - 1)
-
-The below chart shows the distribution of dataset 
-<img src="https://github.com/Farah-DeebaJ/BreastCancerClassification/blob/main/Visualisation/Distribution.png">
 
 ## Methodology
 
