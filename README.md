@@ -1,7 +1,6 @@
 # Breast Cancer Classification
 
-This project aims to classify breast cancer tumors as malignant or benign based on their features. The dataset used for this project is the <a href = "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic">dataset</a><br/>
-from the UCI Machine Learning Repository.
+This project aims to classify breast cancer tumors as malignant or benign based on their features. The dataset used for this project is the <a href = "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic">dataset</a><br/> from the UCI Machine Learning Repository.
 
 ## Dataset
 
@@ -21,7 +20,7 @@ The dataset contains 569 instances of breast cancer tumors, each with 32 attribu
     - fractal dimension ("coastline approximation" - 1)
 
 The below chart shows the distribution of dataset 
-<img_src="https://github.com/Farah-DeebaJ/BreastCancerClassification/blob/main/Visualisation/Distribution.png">
+<img src="https://github.com/Farah-DeebaJ/BreastCancerClassification/blob/main/Visualisation/Distribution.png">
 
 ## Methodology
 
